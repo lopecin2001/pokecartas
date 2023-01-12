@@ -5,18 +5,14 @@
     background-color: grey;
     border-radius: 7px;
     float: left;   
-    margin: 2px;
+    padding: 12px;
+    margin: 5px;
 }
 .cabecero{
-    margin: 10px;
+    margin-bottom: 10px;
 }
-.habilidades{
-    margin: 10px;
-}
-
 .hp {
-    margin-left: 40%;
-    
+    float: right;
 }
 
 .foto{
@@ -25,7 +21,6 @@
 }
 .fondo{ 
     background-image: url("./img/pokemon-background.png");
-    margin: 20px;
     border: 2px solid goldenrod;
     border-radius: 2px;
 }
