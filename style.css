@@ -28,13 +28,16 @@
     border: 2px solid goldenrod;
     border-radius: 2px;
 }
-.verde{
+.planta{
     background-color: darkgreen;
+}
+.fuego{
+    background-color: red;
 }
 .agua {
     background-color: steelblue;
     
 }
-.fuego{
-    background-color: orangered;
+.electrico{
+    background-color: yellow;
 }
