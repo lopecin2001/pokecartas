@@ -1,8 +1,8 @@
 .carta{
-    border: 4px solid goldenrod;
+    border: 8px solid goldenrod;
     width: 250px;
     height: 400px;
-    background-color: grey;
+    background-color: black;
     border-radius: 7px;
     float: left;   
     padding: 12px;
